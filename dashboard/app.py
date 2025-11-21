@@ -31,7 +31,7 @@ def map_figure() :
                 "pm25" : True,
                 "so2" : True     
             },
-        zoom=6.0
+        zoom=6
     )
 
     map_fig.update_layout(
